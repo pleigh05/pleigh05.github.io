@@ -106,3 +106,6 @@ footer ul {
 footer li {
     display: inline-block;
 }
+.round{
+    border-radius: 45%;
+}
